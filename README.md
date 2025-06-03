@@ -1,0 +1,2 @@
+# Assembly Linker
+Low-level LC2K toolchain in C by building a modular assembler and linker system for a simplified ARM-like architecture, enabling multi-file LC2K program support. Implemented an object file format with symbol and relocation tables, resolved cross-file symbolic addresses, and constructed a custom linker to generate executable machine code—demonstrating mastery of instruction encoding, file format parsing, label resolution, memory layout, and systems-level modularity.
